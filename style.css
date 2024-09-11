@@ -1,0 +1,13 @@
+.main {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.title {
+	text-align: center;
+}
+
+.img {
+	display: block;
+	width: 70%;
+}
